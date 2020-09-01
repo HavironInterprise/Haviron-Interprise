@@ -60,7 +60,7 @@
   <p class="lead">See you</p>
   <hr class="my-4">
   <p>If you want send me a email</p>
-  <a class="btn btn-primary btn-lg" href="#" role="button">antonio.jhone@hotmail.com</a>
+  <a class="btn btn-primary btn-lg" href="#" role="button">havironinterprise@outlook.com</a>
 </div>
 
 <!-- FOOTER -->
